@@ -10,6 +10,9 @@
 #### Check out my Portfolio! 
 https://mclanea92.github.io/Adam-McLane-Portfolio/
 
+#### Linkedin
+https://www.linkedin.com/in/adam-mclane-229005149/
+
 <!--
 **mclanea92/mclanea92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
