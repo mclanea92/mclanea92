@@ -4,9 +4,11 @@
 
 #### I am looking to further my education and you can see my progress thus far in my repositories.
 
-#### If you would like to reach me: 📞 (215) 828-9166 & 📧 mclanea92@gmail.com
+#### If you would like to reach me
+📞 (215) 828-9166 & 📧 mclanea92@gmail.com
 
-#### Check out my Portfolio! https://mclanea92.github.io/Adam-McLane-Portfolio/
+#### Check out my Portfolio! 
+https://mclanea92.github.io/Adam-McLane-Portfolio/
 
 <!--
 **mclanea92/mclanea92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
